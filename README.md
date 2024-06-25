@@ -1,2 +1,3 @@
 # simple-FastAPI
-A simple app with FastAPI. 
+
+A simple app with Python FastAPI with uvicorn on Docker. 
